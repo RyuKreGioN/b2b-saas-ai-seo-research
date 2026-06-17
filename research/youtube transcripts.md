@@ -39,31 +39,7 @@ This research maps what's actually working: the systems, workflows, tools, and m
 
 ---
 
-## Repository Structure
 
-```
-/research
-  sources.md                    # All experts with links, dates, annotations
-  /linkedin-posts               # Posts organized by author (manual collection)
-    /nick-jordan/
-    /kevin-indig/
-    /eli-schwartz/
-    /nathan-gotch/
-    /aleyda-solis/
-    /ryan-law/
-    /kyle-roof/
-    /glen-allsopp/
-    /matt-diggity/
-    /mordy-oberstein/
-  /youtube-transcripts          # Transcripts organized by video
-    /nathan-gotch/
-    /aleyda-solis/
-    /kyle-roof/
-    /matt-diggity/
-  /other                        # Newsletters, podcast summaries, additional materials
-```
-
----
 
 ## Content Collection Method
 
