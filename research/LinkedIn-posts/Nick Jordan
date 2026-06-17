@@ -1,1 +1,151 @@
+# LinkedIn Posts — Nick Jordan 📈
 
+**Profile:** https://www.linkedin.com/in/nickfromseattle/
+
+---
+
+### Post 1 — [2026, june 13]
+**URL:** https://www.linkedin.com/posts/nickfromseattle_companies-will-burn-six-months-of-ad-spend-activity-7471215215620231168-sLXf
+
+Companies will burn six months of ad spend testing audiences and call it learning.
+
+Ask them to test SEO for six months, and suddenly it's a gamble.
+
+I’ve seen this skepticism a lot. So now we just walk through the maths on the keywords they're already bidding on.
+
+In the US, those clicks cost about $7 each. Rented, every month, forever.
+
+Six months of organic work might mean publishing 60 pages against those same keywords. On past campaigns, that's resulted in as low as $0.50 a click, amortized over the year. And the clicks keep coming after our engagement ends.
+
+It's the same results page, too. The person clicking the organic listing typed the exact query you were paying $7 to appear for.
+
+Of course, clicks still aren't revenue though. Nobody takes a cost-per-click number into a QBR.
+
+So we hold it to the paid standard on purpose. We report ROAS, not ROI, and benchmark first funnel conversion against whatever their best channel does. Most healthy channels sit between 8% and 12%. By month six or seven, the leading indicators point at the same numbers.
+
+Paid earned the right to experiment, while organic never did.
+
+One of these experiments keeps producing after you stop paying for it.
+
+Somehow, that's the one that gets called a gamble.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Post 2 — January 17, 2023
+**URL:** https://www.linkedin.com/posts/nickfromseattle_google-is-actively-trying-to-de-rank-ai-content-activity-7021098946991206400-Jw_r
+
+
+Google is actively trying to de-rank AI content.
+
+I would not experiment here until you've built systems to consistently rank without it.
+
+More than likely your AI content won't rank, and you'll wonder if it's the AI content, or some other ranking factor - and you won't know.
+
+And then your next steps would be to remove all of the AI content you wrote and try again with real content.
+
+Except now you've wasted the last 6 - 12 months on trying to get this shortcut to work.
+
+Put in the hard work!
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Post 3 — [2026, JUNE]
+**URL:** https://www.linkedin.com/posts/nickfromseattle_i-cant-force-you-to-invest-in-quality-content-activity-7332776068396855298-jNQG
+
+
+Every marketer in fintech, healthcare or compliance I talk to is scared of scaling content output and getting sued for something inside it.
+
+Scaling is only half the problem.
+
+Here's what we've learnt producing content in regulated industries:
+
+
+1/ Volume isn't the threat. Producing at volume without fact-checking every piece against current regulations is.
+
+Here's what content production actually looks like at CD:
+↳ Strategists do the upfront research: customer journey, regulatory framework, content prioritization
+↳ Writers draft from your brand guidelines, editorial standards and source material
+↳ An agentic workflow fact-checks every draft against current regulations and your technical guidelines
+↳ Editors finalize the piece and fact-check it themselves
+↳ Subject matter experts review the technical accuracy
+
+The AI-only version of this is what your legal team is scared of. We don't do the AI-only version.
+
+
+2/ Most "AI fact-checking" is just plugging a draft into Claude.
+
+Fact-checking content at volume is slow, expensive and unglamorous work. Most marketing teams looking at AI to fix it reach for the obvious move: paste the draft into Claude or ChatGPT and ask it to flag anything wrong.
+
+Generic models have no idea what your brand guidelines say, no idea which regulatory framework you operate inside, no live access to current sources.
+
+What we run is a custom agentic workflow connected to an MCP server with your brand, editorial, technical and style guidelines loaded. Multiple models handle different sub-tasks: live web research, source parsing, claim synthesis. All grounded in your context.
+
+
+3/ Most of what our QA agent catches is sourcing problems your reviewers wouldn't catch on the second pass.
+
+Last healthcare run flagged 5 articles. None of them were technically incorrect. They'd leaned on one set of scientific sources without acknowledging the supplementary research that contradicted them. The kind of thing the scientific community would have torched.
+
+The agent doesn't replace the writer, editor or subject matter expert. It catches what they'd miss reviewing a stack of pieces back to back.
+
+
+If you're scaling content production in fintech, healthcare or compliance and want to see what our agent flags on your work, send me a URL.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Post 4 — [2026, JUNE]
+**URL:** https://www.linkedin.com/posts/nickfromseattle_if-youre-thinking-of-investing-in-llm-visibility-activity-7469767633652051968-Mk3o
+
+
+If you're thinking of investing in LLM visibility, here are 8 things to know:
+
+1/ LLM visibility requires good SEO
+2/ Good SEO takes time
+3/ But not as much time as you’ve been told
+4/ We’ve shown LLM visibility as fast as 8 days
+5/ You'll see leading indicators in 90 days. Projected growth takes longer
+6/ It's not AI vs SEO, Google's per-user search volume hasn't dropped in 14 months
+7/ LLM visibility is downstream of dominating a topic cluster, not stuffing bottom-of-funnel keywords
+8/ The window to build LLM visibility cheaply is now. It will get more competitive every quarter
+
+If you want LLM visibility, let's chat.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+### Post 5 — [2026, date unknown]
+**URL:** https://www.linkedin.com/posts/nickfromseattle_ive-lost-count-of-how-many-seo-audits-ive-activity-7468318501146030081-2AlO
+
+
+I've lost count of how many SEO audits I've opened to find the same thing.
+
+Bottom-funnel pages picked off a keyword tool, written in isolation, none of them ranking.
+
+A multi-brand reseller showed us their site last month. Their previous agency had written ten bottom-funnel pieces and there was no logic connecting any of them.
+
+The pages were live. Nothing was ranking. And when we looked at the engagement data, it was obvious why.
+
+The handful of people landing weren't staying.
+
+No second page view. No CTA click. No product view.
+
+Engagement metrics tell you early, long before the rankings do, whether the content is going to work. Bounce on arrival means it won't.
+
+What we'd have done instead: pick the two brands they could actually dominate. Build the cluster around each one.
+
+Supporting content, comparisons, the things someone researching that specific brand needs before they buy. Earn authority in a narrow vertical first. Then, once that's locked in, go after the category-level terms everyone wants.
+
+The previous agency didn't fail because they wrote bottom-funnel content. They failed because they wrote ten disconnected pieces and called it a strategy.
+
+Bottom-funnel without topical concentration is just expensive content that doesn't rank.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Collection Checklist
+
+
+- [ ] Post 1 full text —  https://www.linkedin.com/posts/nickfromseattle_companies-will-burn-six-months-of-ad-spend-activity-7471215215620231168-sLXf
+- [ ] Post 2 full text — https://www.linkedin.com/posts/nickfromseattle_google-is-actively-trying-to-de-rank-ai-content-activity-7021098946991206400-Jw_r
+- [ ] Post 3 full text — https://www.linkedin.com/posts/nickfromseattle_i-cant-force-you-to-invest-in-quality-content-activity-7332776068396855298-jNQG
+- [ ] Post 4 full text — https://www.linkedin.com/posts/nickfromseattle_if-youre-thinking-of-investing-in-llm-visibility-activity-7469767633652051968-Mk3o
+- [ ] Post 5 full text — https://www.linkedin.com/posts/nickfromseattle_ive-lost-count-of-how-many-seo-audits-ive-activity-7468318501146030081-2AlO
