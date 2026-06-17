@@ -77,16 +77,16 @@ curl "https://api.supadata.ai/v1/youtube/transcript?videoId=VIDEO_ID" \
 
 | Expert | LinkedIn Posts | YouTube Transcripts | Notes |
 |--------|---------------|--------------------|----|
-| Nick Jordan | ⏳ To collect | N/A | No active YouTube channel |
-| Kevin Indig | ⏳ To collect | N/A | Podcast > YouTube |
-| Eli Schwartz | ⏳ To collect | N/A | Podcast appearances only |
-| Nathan Gotch | ⏳ To collect | ⏳ To collect | Active YouTube |
-| Aleyda Solís | ⏳ To collect | ⏳ To collect | Crawling Mondays |
-| Ryan Law | ⏳ To collect | N/A | Newsletter primary |
-| Kyle Roof | ⏳ To collect | ⏳ To collect | Active YouTube |
-| Glen Allsopp | ⏳ To collect | N/A | Blog primary |
-| Matt Diggity | ⏳ To collect | ⏳ To collect | Very active YouTube |
-| Mordy Oberstein | ⏳ To collect | N/A | Podcast + LinkedIn |
+| Nick Jordan |  collected | N/A | No active YouTube channel |
+| Kevin Indig |  collected | N/A | Podcast > YouTube |
+| Eli Schwartz |  collected | N/A | Podcast appearances only |
+| Nathan Gotch |  collected |  collected | Active YouTube |
+| Aleyda Solís |  collected |  collected | Crawling Mondays |
+| Ryan Law |  collected | N/A | Newsletter primary |
+| Kyle Roof |  collected |  collected | Active YouTube |
+| Glen Allsopp |  collected | N/A | Blog primary |
+| Matt Diggity |  collected |  collected | Very active YouTube |
+| Mordy Oberstein |  collected | N/A | Podcast + LinkedIn |
 
 ---
 
