@@ -57,19 +57,14 @@ The Latest in SEO & AI Search Updates
 ### Post 5 — [2023 but still highly relevant]
 **URL:** https://www.linkedin.com/posts/aleyda_the-top-11-ai-tools-to-improve-your-seo-workflow-activity-7070357336556486656-FnRj
 **Topic:** Top 11 AI tools to improve your SEO workflow
-**Engagement:** 15+ comments
 
-> ⚠️ **TODO:** Visit URL and paste full post text.
 
-**Annotation:** Foundational tool stack post — her 2023 baseline for AI SEO tools, useful to compare against what she's using in 2026 to track tool evolution.
 
 ---
 
 ## Collection Checklist
 
-- [x] Profile URL confirmed
-- [x] 3 post URLs/fragments identified
-- [x] Key content fragments captured from posts 1–3
+
 - [ ] Post 1 full text — AI Search Prompt Library - https://www.linkedin.com/posts/aleyda_ai-traffic-vs-ai-citations-what-clicks-activity-7465347600397959168-4s8B
 - [ ] Post 2 full text — https://www.linkedin.com/posts/aleyda_a-new-release-from-screaming-frog-with-activity-7462557149177733120-U2MT
 - [ ] Post 3 full text — https://www.linkedin.com/posts/aleyda_hubspot-has-launched-an-aeo-sensor-a-dashboard-activity-7460763642012037121-X_FB
