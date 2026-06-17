@@ -1,3 +1,5 @@
+Youtube link - https://www.youtube.com/live/o4fdHvfWO60?si=ssxzR8lzaDxl0n_I
+
 00:00:00 complete enthusiasm. I'm like, yeah,
 00:00:02 we're just talking and I forget to
 00:00:04 freaking take us live. Oh, no worries.
