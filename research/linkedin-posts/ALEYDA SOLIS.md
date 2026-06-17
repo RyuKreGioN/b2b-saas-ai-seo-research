@@ -52,7 +52,7 @@
 ### Post 4 — [Recent 2025/2026]
 **URL:** https://www.linkedin.com/posts/aleyda_seofomo-activity-7464390181454761984-YMT6
 
-**Topic:**The Latest in SEO & AI Search Updates
+**Topic:** The Latest in SEO & AI Search Updates
 
 
 
@@ -70,7 +70,7 @@
 ## Collection Checklist
 
 
-- [ ] Post 1 full text — AI Search Prompt Library - https://www.linkedin.com/posts/aleyda_ai-traffic-vs-ai-citations-what-clicks-activity-7465347600397959168-4s8B
+- [ ] Post 1 full text — https://www.linkedin.com/posts/aleyda_ai-traffic-vs-ai-citations-what-clicks-activity-7465347600397959168-4s8B
 - [ ] Post 2 full text — https://www.linkedin.com/posts/aleyda_a-new-release-from-screaming-frog-with-activity-7462557149177733120-U2MT
 - [ ] Post 3 full text — https://www.linkedin.com/posts/aleyda_hubspot-has-launched-an-aeo-sensor-a-dashboard-activity-7460763642012037121-X_FB
 - [ ] Post 4 full text — https://www.linkedin.com/posts/aleyda_seofomo-activity-7464390181454761984-YMT6
