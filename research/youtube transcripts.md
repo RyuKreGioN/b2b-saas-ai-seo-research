@@ -106,19 +106,3 @@ python scripts/batch_transcripts.py --channel-url CHANNEL_URL --max 10
 ```
 
 > Scripts are in `/scripts/` (to be added)
-
-### LinkedIn Post Collection (manual flow)
-
-1. Open each expert's LinkedIn profile
-2. Filter to "Posts" tab
-3. Copy the last 5–10 posts relevant to AI SEO into `/research/linkedin-posts/{slug}/posts.md`
-4. Include: post date, raw text, engagement count (optional), your brief annotation
-
----
-
-## Contributing / Next Steps
-
-- [ ] Collect 5 recent LinkedIn posts per expert
-- [ ] Pull transcripts for top 3 YouTube videos per active channel (Gotch, Solis, Roof, Diggity)
-- [ ] Save 2–3 recent newsletter issues per newsletter expert (Indig, Law, Solis)
-- [ ] Write synthesis note in `/research/other/synthesis.md` after collection
