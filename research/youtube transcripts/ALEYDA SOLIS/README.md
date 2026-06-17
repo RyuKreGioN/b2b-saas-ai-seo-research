@@ -1,3 +1,5 @@
+Youtube link- https://www.youtube.com/@CrawlingMondaysbyAleyda
+video link- https://youtu.be/_N7NrERRk_g?si=B0fdpBUZGIMGUcyh
 00:00:00 welcome to another special edition of
 00:00:02 calling Monday's today with me I have
 00:00:04 the amazing Matthew holes Barbies who's
