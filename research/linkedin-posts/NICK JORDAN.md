@@ -1,0 +1,76 @@
+# LinkedIn Posts — Nick Jordan 📈
+
+**Profile:** https://www.linkedin.com/in/nickfromseattle/
+
+
+---
+
+### Post 1 — [2026, JUNE 13]
+**URL:**https://www.linkedin.com/posts/nickfromseattle_companies-will-burn-six-months-of-ad-spend-activity-7471215215620231168-sLXf
+
+
+Companies will burn six months of ad spend testing audiences and call it learning.
+
+Ask them to test SEO for six months, and suddenly it's a gamble.
+
+I’ve seen this skepticism a lot. So now we just walk through the maths on the keywords they're already bidding on.
+
+
+---
+
+### Post 2 — [2026,JUNE]
+**URL:** https://www.linkedin.com/posts/nickfromseattle_every-marketer-in-fintech-healthcare-or-activity-7470130958457868288-mvtl
+
+
+Every marketer in fintech, healthcare or compliance I talk to is scared of scaling content output and getting sued for something inside it.
+
+Scaling is only half the problem.
+
+---
+
+### Post 3 — [2026, JUNE]
+**URL:** https://www.linkedin.com/posts/nickfromseattle_if-youre-thinking-of-investing-in-llm-visibility-activity-7469767633652051968-Mk3o
+
+
+If you're thinking of investing in LLM visibility, here are 8 things to know:
+
+1/ LLM visibility requires good SEO
+2/ Good SEO takes time
+3/ But not as much time as you’ve been told
+4/ We’ve shown LLM visibility as fast as 8 days
+
+---
+
+### Post 4 — [2026, date JUNE]
+**URL:** https://www.linkedin.com/posts/nickfromseattle_ive-lost-count-of-how-many-seo-audits-ive-activity-7468318501146030081-2AlO
+
+
+I've lost count of how many SEO audits I've opened to find the same thing.
+
+Bottom-funnel pages picked off a keyword tool, written in isolation, none of them ranking.
+
+A multi-brand reseller showed us their site last month. Their previous agency had written ten bottom-funnel pieces and there was no logic connecting any of them.
+
+The pages were live. Nothing was ranking. And when we looked at the engagement data, it was obvious why.
+
+
+
+---
+
+### Post 5 — [Recent]
+**URL:** https://www.linkedin.com/posts/nickfromseattle_i-worked-at-an-seo-agency-that-had-a-37-activity-7190681274011844608-BlAh
+
+Topic: "How I changed my career at SEO agency" / 37% Success
+
+
+
+---
+
+## Collection Checklist
+
+
+- [ ] Post 1 full text — https://www.linkedin.com/posts/nickfromseattle_companies-will-burn-six-months-of-ad-spend-activity-7471215215620231168-sLXf
+- [ ] Post 2 full text — https://www.linkedin.com/posts/nickfromseattle_every-marketer-in-fintech-healthcare-or-activity-7470130958457868288-mvtl
+- [ ] Post 3 full text — https://www.linkedin.com/posts/nickfromseattle_if-youre-thinking-of-investing-in-llm-visibility-activity-7469767633652051968-Mk3o
+- [ ] Post 4 full text —https://www.linkedin.com/posts/nickfromseattle_ive-lost-count-of-how-many-seo-audits-ive-activity-7468318501146030081-2AlO
+- [ ] Post 5 full text — https://www.linkedin.com/posts/nickfromseattle_i-worked-at-an-seo-agency-that-had-a-37-activity-7190681274011844608-BlAh
