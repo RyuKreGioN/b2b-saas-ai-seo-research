@@ -1,4 +1,5 @@
-Youtube link- https://youtu.be/0s757deQ3EI?si=SkBHfSdJ29lKjWrW
+Youtube link- https://www.youtube.com/@MattDiggity
+Video link- https://youtu.be/0s757deQ3EI?si=SkBHfSdJ29lKjWrW
 
 00:00:00 - In this video,
 00:00:01 I'm gonna show you how to get your website
