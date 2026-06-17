@@ -1,3 +1,6 @@
+Youtube link- **https://www.youtube.com/@nathangotch**
+Video link- https://youtu.be/H_l6nQjrc0Y?si=Xy8A_BcM6iJanF-b
+
 00:00:00 This SEO campaign checklist got us 975%
 00:00:04 more visibility on Google and chat GPT.
 00:00:07 And today I'm going to show you the full
