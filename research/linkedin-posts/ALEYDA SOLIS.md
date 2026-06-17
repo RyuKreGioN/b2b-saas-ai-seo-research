@@ -1,7 +1,9 @@
 # LinkedIn Posts — Aleyda Solís
 
 **Profile:** https://www.linkedin.com/in/aleyda/ (or /in/aleydasolis/)
+
 **Status:** 🟡 URLs + content fragments found 
+
 **Newsletter:** SEOFOMO (35k+ subscribers) | Founder of Orainti
 
 ---
