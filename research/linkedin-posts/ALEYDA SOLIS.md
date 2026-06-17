@@ -8,6 +8,7 @@
 
 ### Post 1 — [Recent 2026]
 **URL:** https://www.linkedin.com/posts/aleyda_ai-traffic-vs-ai-citations-what-clicks-activity-7465347600397959168-4s8B
+
 **Topic:** AI Traffic vs AI Citations
 **Source summary:** Analyzed April 2026 USA Semrush  data across the top sites by market share
 
@@ -25,6 +26,7 @@
 
 ### Post 2 — [Recent 2026]
 **URL:** https://www.linkedin.com/posts/aleyda_a-new-release-from-screaming-frog-with-activity-7462557149177733120-U2MT
+
 **Topic:** A new 🔥 release from Screaming Frog with v24.0
 
 ✅ Segment crawl data at scale
@@ -38,6 +40,7 @@
 
 ### Post 3 — [Recent 2025/2026]
 **URL:** https://www.linkedin.com/posts/aleyda_hubspot-has-launched-an-aeo-sensor-a-dashboard-activity-7460763642012037121-X_FB
+
 **Topic:** HubSpot has launched an AEO Sensor 
 
 * An Answer Engine Volatility Tracker
@@ -48,7 +51,8 @@
 
 ### Post 4 — [Recent 2025/2026]
 **URL:** https://www.linkedin.com/posts/aleyda_seofomo-activity-7464390181454761984-YMT6
-The Latest in SEO & AI Search Updates
+
+**Topic:**The Latest in SEO & AI Search Updates
 
 
 
@@ -56,6 +60,7 @@ The Latest in SEO & AI Search Updates
 
 ### Post 5 — [2023 but still highly relevant]
 **URL:** https://www.linkedin.com/posts/aleyda_the-top-11-ai-tools-to-improve-your-seo-workflow-activity-7070357336556486656-FnRj
+
 **Topic:** Top 11 AI tools to improve your SEO workflow
 
 
